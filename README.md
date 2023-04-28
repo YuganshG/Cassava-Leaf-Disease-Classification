@@ -19,7 +19,7 @@ Cassava is a crucial crop for ensuring food security in Africa, as it is a signi
 
 1. Place the dataset in the ./data/input folder
 2. Update the following variables in the notebook:
-   <pre> path = "../data/input" </pre>
-   <pre> outpath = "../data/output" </pre>
+   <pre> path = "../data/input"
+   outpath = "../data/output" </pre>
 3. Run the notebook in ./notebooks
 4. Trained models can be accessed in the root directory.
